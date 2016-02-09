@@ -1,0 +1,29 @@
+name: ADAVB
+favicon: null
+layout_spectrum: 0.6588746451307088
+typography_spectrum: 0.8643003129400313
+title: Australian Dental Association Victorian Branch Inc.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3243574120569974
+  lightness: 0.19962963764555752
+  saturation: 0.6640898850746453
+  rhythmicContrast: 0.7485365723259747
+purpose: []
